@@ -3,4 +3,7 @@
 
 #My favorite Programming language is CPP
 
-Cout<<"Hello Everyone";
+cout<<"Hello Everyone";
+
+
+cout<<"How are you?"
